@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	height: 100%;
+	background-image: linear-gradient(rgb(110, 44, 242), rgb(147, 104,233));
+	color: #FFF;
+}
+
+#parent {
+   display: table;
+   width: 100%;
+}	
+		
+#form_login {
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   color: #FFF;
+}
